@@ -1,0 +1,21 @@
+{
+    "name": "ada/api-proxy",
+    "description": "使用guzzle访问第三方接口",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Bob",
+            "email": "amgh@vip.qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "psr/log": "^1.0",
+        "predis/predis": "^1.1"
+    },
+    "autoload":{
+        "psr-4":{
+            "Ada\\HttpProxy\\": "src/"
+        }
+    }
+}
