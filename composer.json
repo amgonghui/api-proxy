@@ -1,5 +1,5 @@
 {
-    "name": "ada/api-proxy",
+    "name": "amada/api-proxy",
     "description": "使用guzzle访问第三方接口",
     "minimum-stability": "stable",
     "authors": [
