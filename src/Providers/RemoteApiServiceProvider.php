@@ -1,10 +1,10 @@
 <?php
 
-namespace Ada\HttpProxy\Providers;
+namespace Amada\HttpProxy\Providers;
 
-use Ada\HttpProxy\AuthorizedClient;
-use Ada\HttpProxy\PlainClient;
-use Ada\HttpProxy\RemoteApiService;
+use Amada\HttpProxy\AuthorizedClient;
+use Amada\HttpProxy\PlainClient;
+use Amada\HttpProxy\RemoteApiService;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\ServiceProvider;
 use Psr\Log\LoggerInterface;

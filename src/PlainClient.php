@@ -1,6 +1,6 @@
 <?php
 
-namespace Ada\HttpProxy;
+namespace Amada\HttpProxy;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\BadResponseException;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ada\HttpProxy;
+namespace Amada\HttpProxy;
 
 use GuzzleHttp\Handler\CurlHandler;
 use GuzzleHttp\HandlerStack;
