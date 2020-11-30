@@ -56,6 +56,6 @@ class RemoteApiServiceProvider extends ServiceProvider
      */
     private function configPath()
     {
-        return __DIR__ . '/../../config/api.php';
+        return __DIR__ . '/../config/api.php';
     }
 }
