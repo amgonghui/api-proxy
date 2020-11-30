@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Amada\\HttpProxy\\Providers\\": "src/"
+            "Amada\\HttpProxy\\": "src/"
         }
     }
 }

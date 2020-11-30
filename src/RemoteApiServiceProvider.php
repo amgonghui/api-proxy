@@ -1,6 +1,6 @@
 <?php
 
-namespace Amada\HttpProxy\Providers;
+namespace Amada\HttpProxy;
 
 use Amada\HttpProxy\AuthorizedClient;
 use Amada\HttpProxy\PlainClient;
